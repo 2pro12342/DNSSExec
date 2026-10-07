@@ -7,3 +7,6 @@ Download one of the 2 files or copy the data url link and paste it into a new ta
   
 **Note**: If the  data url instantly closes, input `data://` instead of `data:`. 
   
+## Extra Notes 
+
+- Only copy & paste highlighted text if it's your OS. (use the Linux, Debian, or Ubuntu, not MacOS)
